@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using PavleJovanovic.Blazor.VebProdavnica.Client;
 
 namespace PavleJovanovic.Blazor.VebProdavnica.Client
 {

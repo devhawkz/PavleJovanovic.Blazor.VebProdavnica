@@ -1,3 +1,5 @@
+global using PavleJovanovic.Blazor.VebProdavnica.Shared;
+
 using Microsoft.AspNetCore.ResponseCompression;
 
 namespace PavleJovanovic.Blazor.VebProdavnica

@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using PavleJovanovic.Blazor.VebProdavnica.Shared;
 
 namespace PavleJovanovic.Blazor.VebProdavnica.Server.Controllers
 {
